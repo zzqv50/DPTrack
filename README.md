@@ -1,4 +1,3 @@
 # DPTrack
-Here is the official implementation of DPTrack.
-code will coming soon.
+Here is the official implementation of DPTrack. Code will coming soon.
 
